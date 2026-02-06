@@ -47,3 +47,5 @@ This approach generates SVG markup from Python using only pandas for data loadin
 ## Design Achievements
 
 1. **Colors**: All five visualizations use the same color mapping so it's easier to compare and contrast their major differences.
+
+**AI Usage**: Chatgpt 4o (free) was used to give me instructions on how to format this README, specifically things like bolded lettering, text headers, and embedding screenshots.
